@@ -6,6 +6,11 @@
 
 This repository contains the complete draft of the **Electoral Mandate Integrity Act**, legislation that would amend the *Parliament of Canada Act* and the *Canada Elections Act* to require a Member of Parliament who changes party affiliation to obtain a renewed mandate from their constituents through a by-election.
 
+### Download the Bill
+- [📄 Markdown (best for reading on GitHub)](Electoral_Mandate_Integrity_Act_v2.md)
+- [📕 PDF (print-ready)](documents/Electoral_Mandate_Integrity_Act_v2.pdf)
+- [📘 Word .docx (editable)](documents/Electoral_Mandate_Integrity_Act_v2.docx)
+
 ### Key Features
 - Broad but precise definition of “change of party affiliation” (including voting patterns, cabinet appointments, and public declarations)
 - Comprehensive exemptions for party dissolution, mergers, expulsion, ethical violations, and independents
