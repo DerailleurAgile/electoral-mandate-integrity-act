@@ -8,9 +8,9 @@ This repository contains the complete draft of the **Electoral Mandate Integrity
 
 ### Download the Bill
 
-  - [📄 Markdown (best for reading on GitHub)](https://www.google.com/search?q=Electoral_Mandate_Integrity_Act_v2.md)
-  - [📕 PDF (print-ready)](https://www.google.com/search?q=documents/Electoral_Mandate_Integrity_Act_v2.pdf)
-  - [📘 Word .docx (editable)](https://www.google.com/search?q=documents/Electoral_Mandate_Integrity_Act_v2.docx)
+  - [📄 Markdown (best for reading on GitHub)](Electoral_Mandate_Integrity_Act_v2.md)
+  - [📕 PDF (print-ready)](documents/Electoral_Mandate_Integrity_Act_v2.pdf)
+  - [📘 Word .docx (editable)](documents/Electoral_Mandate_Integrity_Act_v2.docx)
 
 ### Key Features
 
